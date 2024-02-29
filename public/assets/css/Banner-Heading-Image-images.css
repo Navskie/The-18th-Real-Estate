@@ -1,0 +1,11 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+#promo {
+  padding: 40px;
+  background: url(../../assets/img/bedroom.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+

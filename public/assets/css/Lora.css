@@ -1,0 +1,71 @@
+@font-face {
+	font-family: 'Lora';
+	src: url(../../assets/fonts/Lora-b8e7a5c238c6ac1b43fbd04dbcc2f160.woff2) format('woff2'),
+	url(../../assets/fonts/Lora-90244d3380c72345c0a16dbf87b39896.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Lora';
+	src: url(../../assets/fonts/Lora-95503472d53728f865ff2fd98c74b3d2.woff2) format('woff2'),
+	url(../../assets/fonts/Lora-199b6f9860eb3179167475789a3fab2d.woff) format('woff');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Lora';
+	src: url(../../assets/fonts/Lora-343798f19121e09e7f8d9cb801aeedda.woff2) format('woff2'),
+	url(../../assets/fonts/Lora-32c8200144e595e75f0498bfb5956fe9.woff) format('woff');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Lora';
+	src: url(../../assets/fonts/Lora-3c9f67f8e035ba92dbfd63724d8c9ecb.woff2) format('woff2'),
+	url(../../assets/fonts/Lora-3178df56439ee6b7a84f68198fad6a5c.woff) format('woff');
+	font-weight: 500;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Lora';
+	src: url(../../assets/fonts/Lora-ba2811b048ba68c24f4b2d813ef36b2c.woff2) format('woff2'),
+	url(../../assets/fonts/Lora-467c321e7a182d81939f35b1b1d15e65.woff) format('woff');
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Lora';
+	src: url(../../assets/fonts/Lora-17edcebf433e7efd4cdfbb544679bc60.woff2) format('woff2'),
+	url(../../assets/fonts/Lora-cf258b21f9f8d493625d734c2890f98d.woff) format('woff');
+	font-weight: 600;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Lora';
+	src: url(../../assets/fonts/Lora-1e1c30730eabf5d986f9debc93c62eaa.woff2) format('woff2'),
+	url(../../assets/fonts/Lora-f6e7c8a80b61d4edf3020339478b91b3.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Lora';
+	src: url(../../assets/fonts/Lora-d485b822ceb9d8d7b7d77501f92cf9ef.woff2) format('woff2'),
+	url(../../assets/fonts/Lora-61df8d71b63e13209d94c62b21d371f2.woff) format('woff');
+	font-weight: bold;
+	font-style: italic;
+	font-display: swap;
+}
