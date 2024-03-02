@@ -1,4 +1,4 @@
-@extends('admin.admin_master')
+@extends('admin.section.admin_master')
 @section('admin')
 <div class="page-content">
     <div class="container-fluid">
@@ -12,7 +12,7 @@
                     <div class="page-title-right">
                         <ol class="breadcrumb m-0">
                             <li class="breadcrumb-item"><a href="javascript: void(0);">Upcube</a></li>
-                            <li class="breadcrumb-item active">Dashboard</li>
+                            <li class="breadcrumb-item active">Amenities</li>
                         </ol>
                     </div>
 

@@ -39,8 +39,8 @@
                     <p class="w-lg-50">Curae hendrerit donec commodo hendrerit egestas tempus, turpis facilisis nostra nunc. Vestibulum dui eget ultrices .</p>
                 </div>
             </div>
-            <div class="row gy-4 row-cols-1 row-cols-md-2 row-cols-xl-3 mt-2">
-                <div class="col">
+            <div class="row gy-4 mt-2">
+                <div class="col-sm-12 col-md-6 col-lg-3">
                     <div class="card"><img class="card-img-top w-100 d-block fit-cover" style="height: 200px;" src="assets/img/Backyardpool.jpg">
                         <div class="card-body p-4">
                             <h4 class="card-title" style="font-family: Lora, serif;">Pool &amp; RestoBar</h4>
@@ -48,7 +48,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col-sm-12 col-md-6 col-lg-3">
                     <div class="card"><img class="card-img-top w-100 d-block fit-cover" style="height: 200px;" src="assets/img/download%20(3).jpg">
                         <div class="card-body p-4">
                             <h4 class="card-title" style="font-family: Lora, serif;">High Speed Internet Network</h4>
@@ -56,7 +56,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col-sm-12 col-md-6 col-lg-3">
                     <div class="card"><img class="card-img-top w-100 d-block fit-cover" style="height: 200px;" src="assets/img/images.jpg">
                         <div class="card-body p-4">
                             <h4 class="card-title" style="font-family: Lora, serif;">Smart Lock System</h4>
@@ -64,7 +64,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col-sm-12 col-md-6 col-lg-3">
                     <div class="card"><img class="card-img-top w-100 d-block fit-cover" style="height: 200px;" src="assets/img/download%20(1).jpg">
                         <div class="card-body p-4">
                             <h4 class="card-title" style="font-family: Lora, serif;">Fitness Room</h4>
